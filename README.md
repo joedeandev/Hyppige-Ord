@@ -1,4 +1,4 @@
-# De Hyppigste Ord i den Frie Encyklopædia
+# De Hyppigste Ord i den Frie Encyklopædi
 
 Danish word frequency list generated from [da.wikipedia.org](https://da.wikipedia.org/).
 

@@ -4,7 +4,7 @@ Danish word frequency list generated from [da.wikipedia.org](https://da.wikipedi
 
 # Files
 
-* [da-words.csv](./da-words.csv) lists 1,849,899 case-sensitive words, the number of times they appear in the data set, and their relative frequency.
+* [da-words.csv](./da-words.csv) lists 1,387,826 case-sensitive words, the number of times they appear in the data set, and their relative frequency.
 * [da-words-nocase.csv](./da-words.csv) contains the same information, but case-insensitive.
 
 
